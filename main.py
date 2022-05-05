@@ -12,4 +12,4 @@ sentry_sdk.init(
 )
 
 if __name__ == "__main__":
-    division_by_zero = 3 / 0
+    division_by_zero = 1 / 0
